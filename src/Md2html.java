@@ -1,14 +1,9 @@
 /**
- *  I N F 2 7 1 0 - 5 0
  *
  * 	Application de convertion de document au format mini-markdown en document au format html. 
  *	Seul un sous-ensemble du format markdown sera à réaliser
  *
- *	@author : Jude Seide (SEIJ04019006)
- *	@author : Guillaume Senou (SENT10019203)
- *
- *	senou.towede_guillaume@courrier.uqam.ca
- *	seide.jude_odilon_kenley@courrier.uqam.ca	
+ *	@author : Jude Seide	
  *
  */
 
